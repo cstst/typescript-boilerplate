@@ -1,7 +1,7 @@
 {
-  "name": "minesweeper",
+  "name": "typescript-boilerplate",
   "version": "1.0.0",
-  "description": "Console based minesweeper game",
+  "description": "Typescript Boilerplate",
   "main": "index.js",
   "scripts": {
     "nyc": "nyc --reporter=text --reporter=lcov --check-coverage --lines 80 --functions 80 --branches 80 node config/jasmine.runner.js",
